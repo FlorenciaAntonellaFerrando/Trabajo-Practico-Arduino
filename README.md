@@ -1,4 +1,4 @@
-# Trabajo-Practico-Arduino
+
 Tp Final de Arduino - Laboratorio de Computacion 1 
 Secuencia de juegos.
 Descripción del sistema?:
@@ -36,13 +36,15 @@ Componentes utilizados:
 ⦁	Potenciómetro
 ⦁	Switch/Interruptor
 
-Diagrama eléctrico o de conexiones:
+Diagrama eléctrico o de conexiones: //editar
+![esquema de conexiones](https://github.com/user-attachments/assets/3d0a59a5-304c-49fb-bfee-dd07c81e399f)
 
 Maquina de estados (diagrama o explicación):
+
 
 Imágenes o video demostrativo:
 <img width="978" height="760" alt="image" src="https://github.com/user-attachments/assets/4ef63a39-c0cc-47f9-8da5-792b9d3aaa53" />
 
 
 
-créditos
+Créditos: a las integrantes del grupo.
