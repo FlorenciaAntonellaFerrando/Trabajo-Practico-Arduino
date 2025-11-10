@@ -1,4 +1,3 @@
-
 Tp Final de Arduino - Laboratorio de Computacion 1 
 Secuencia de juegos.
 Descripción del sistema?:
