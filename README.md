@@ -1,6 +1,6 @@
 Tp Final de Arduino - Laboratorio de Computacion 1 
 Secuencia de juegos.
-Descripción del sistema?:
+Descripción del sistema:
 
 Integrantes del grupo:
 ALFONZO TAMARA: tamaralalfonzo20@gmail.com
@@ -46,4 +46,4 @@ Imágenes o video demostrativo:
 
 
 
-Créditos: a las integrantes del grupo.
+Créditos: a las integrantes del grupo ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯.
